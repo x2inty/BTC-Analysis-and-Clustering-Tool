@@ -3,7 +3,7 @@ BTC-Analysis-and-Clustering-Tool
 Tabs of Version 6
 
 RawData:
-Raw candlestick data (Open, High, Low, Close, Volume, DateTime, Cluster, etc.) for each 15-minute interval.
+Raw candlestick data (Open, High, Low, Close, Volume, DateTime, Cluster,...) for each 15-minute interval.
 
 GlobalStats:
 Global statistics on price changes (Delta): mean, standard deviation, skewness, kurtosis, normality test, autocorrelation, Sharpe ratio,...
